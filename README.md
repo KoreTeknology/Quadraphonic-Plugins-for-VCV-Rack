@@ -30,8 +30,7 @@ These plugins will be available for Windows, Apple and Linux computers.
 <img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Com/header_mod1.jpg" width=100%>
 </p>
 
-
-## Overview and description of the modules
+## Overview and short description of the modules
 
 ### QuadraTrack Module: Type MIXER
 
