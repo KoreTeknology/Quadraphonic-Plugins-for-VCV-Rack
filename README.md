@@ -27,7 +27,7 @@ These plugins will be available for Windows, Apple and Linux computers.
 
 
 <p align="center">
-<img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Com/header_r1.jpg" width=100%>
+<img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Com/header_mod1.jpg" width=100%>
 </p>
 
 
