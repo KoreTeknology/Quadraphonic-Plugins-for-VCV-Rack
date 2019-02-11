@@ -8,6 +8,12 @@ A set of Quadraphonic tools for VCV Rack:
 
 ### This page is in progress, comeback soon !
 
+## Builds
+These plugins are available for Windows, Apple and Linux computers. 
+
+**2019-02-11**: The latest version is for Rack v0.6.2
+
+
 ## Overview
 
 Description of the plugins. 
