@@ -14,7 +14,7 @@ This is an educational project, based on the creation of a set of **Modules** fo
 
 The initial project was to create a serie of Modules, used for quadraphonic performances. The concept was developped 20 years ago but only few hardware prototypes were made at this time.  
 
-See Patent document: https://patents.google.com/patent/FR2839601A1/en?oq=FR2839601A1
+See 2002 Patent Document: https://patents.google.com/patent/FR2839601A1/en?oq=FR2839601A1
 
 The objective is to recreate theses concepts in a virtual environment (VCV Rack) and add some extra features. Here is a list of needed "components":
 
