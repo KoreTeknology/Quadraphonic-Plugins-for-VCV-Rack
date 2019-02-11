@@ -12,7 +12,11 @@
 This is an educational project, based on the creation of a set of **Modules** for VCV Rack, Open-source virtual modular synthesizer  https://github.com/VCVRack/Rack .
 
 
-The initial project was to create a serie of Modules, used for quadraphonic performances. The concept was developped 20 years ago but only few hardware prototypes were made at this time. The objective is to recreate theses concepts in a virtual environment (VCV Rack) and add some extra features. Here is a list of needed "components":
+The initial project was to create a serie of Modules, used for quadraphonic performances. The concept was developped 20 years ago but only few hardware prototypes were made at this time.  
+
+See Patent document: https://patents.google.com/patent/FR2839601A1/en?oq=FR2839601A1
+
+The objective is to recreate theses concepts in a virtual environment (VCV Rack) and add some extra features. Here is a list of needed "components":
 
 - **QuadraTrack**, a Single Mono Input track to 4 outputs with controls and options (or 4x4 matrix...)
 - **QuadraMaster**, An master output section with 4 audio inputs/outputs with effects, limiter and options
