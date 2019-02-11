@@ -68,6 +68,8 @@ this module is intended to Record/Play/import/export a specific files package. I
 Mockups in progress, previous research of UI Design and user experience.
 <p align="center">
 <img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Mockups/protoUI1.jpg" width=90%>
+  4x4 matrix mixer Version:
+<img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Mockups/uipour-VCV.jpg" width=90%>
 </p>
 
 ---
