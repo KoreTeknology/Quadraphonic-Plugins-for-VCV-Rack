@@ -9,10 +9,10 @@
 
 ---
 
-This is an educational project, based on the creation of a set of **Modules** for VCV Rack, Open-source virtual modular synthesizer  https://github.com/VCVRack/Rack .
+This is an educational project, based on the creation of a set of **Modules for VCV Rack**, Open-source virtual modular synthesizer  https://github.com/VCVRack/Rack .
 
 
-The initial project was to create a serie of Modules, used for quadraphonic performances. The concept was developped 20 years ago but only few hardware prototypes were made at this time.  
+The initial project was to create a serie of Modules, used for **quadraphonic performances**. The concept was developped 20 years ago but only few hardware prototypes were made at this time.  
 
 See 2002 Patent Document: https://patents.google.com/patent/FR2839601A1/en?oq=FR2839601A1
 
@@ -24,11 +24,9 @@ The objective is to recreate theses concepts in a virtual environment (VCV Rack)
 
 ---
 
-I can consider this project as a WIP (work in progress), files will be updated on major upgrades without deadline until the complete documentation will be published. it start with a pdf format for printing purpose and a set of files, organized by chapters.
+I can consider this project as a **WIP** (work in progress), files will be updated on major upgrades without deadline until the complete documentation will be published. The complete work of documentation is released under Open document license and the modules files is release under Open source license. 
 
-The complete work of documentation is released under Open document license and the modules files is release under Open source license. 
-
-The final documentation will have several sections like:
+The final documentation will cover several sections like:
 - **How to plan your Module Development**, from idea to project planning
 - **How to make a new Module**, an advanced tutorial on the Quadratrack mixer development
 - **How to use/test your new module in VCV Rack**, a complete manual of using VCV Rack and testing modules process
@@ -50,7 +48,7 @@ Each release can be found in the build folder, to keep track of any modification
 ## Overview and short description of the modules
 
 ### QuadraTrack Module: Type MIXER
-this module is intended to recieve a single mono channel and distribute it to 4 outputs. The user may manipulate de sound space with manual controls (can be assigned to external Midi CC) OR internal automation control thru CV Levels. Mutes and CV levels give more precision and creativity to any quadriphonic scenery design. [Read the specifications](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/quadratrack.md)
+This module is intended to recieve a single mono channel and distribute it to 4 outputs. The user may manipulate de sound space with manual controls (can be assigned to external Midi CC) OR internal automation control thru CV Levels. Mutes and CV levels give more precision and creativity to any quadriphonic scenery design. [Read the specifications](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/quadratrack.md)
 
 | **Status:** *In progress* | **Title:** *0.2b* |
 | --- | --- |
