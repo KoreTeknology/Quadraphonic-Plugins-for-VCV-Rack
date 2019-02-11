@@ -29,6 +29,8 @@ The final documentation will have several sections like:
 - **How to make a new Module**, an advanced tutorial on the Quadratrack mixer development
 - **How to use/test your new module in VCV Rack**, a complete manual of using VCV Rack and testing modules process
 
+At any time, you can refer to the Summary page to access tutorial parts : [Summary](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/summary.md)
+
 ---
 
 ## Modules Builds
