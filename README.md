@@ -9,7 +9,7 @@ The initial project was to create a serie of Modules, used for quadraphonic perf
 
 - **QuadraTrack**, a Single Mono Input track to 4 outputs with controls and options (or 4x4 matrix...)
 - **QuadraMaster**, An master output section with 4 audio inputs/outputs with effects, limiter and options
-- **QuadraPlayer**, a 4 tracks sequencer, recorder/player, audio/midi from files, with 4 audio channel and 16 Midi channel
+- **QuadraEngine**, a 4 tracks sequencer, recorder/player, audio/midi from files, with 4 audio channel and 16 Midi channel
 
 I can consider this project as a WIP (work in progress), files will be updated on major upgrades without deadline until the complete documentation will be published. it start with a pdf format for printing purpose and a set of files, organized by chapters.
 
@@ -33,12 +33,21 @@ These plugins will be available for Windows, Apple and Linux computers.
 ## Overview and short description of the modules
 
 ### QuadraTrack Module: Type MIXER
+this module is intended to recieve a single mono channel and distribute it to 4 outputs. The user may manipulate de sound space with manual controls (can be assigned to external Midi CC) OR internal automation control thru CV Levels. Mutes and CV levels give more precision and creativity to any quadriphonic scenery design.
 
-Setup | Details
------------- | -------------
-INPUT SECTION | 1 audio input jack, input knob, vu meter, CV control over VCA-IN
-MATRIX SECTION | 1x4 multiplexer with gain knob, CV control, mute switch
-OUTPUT SECTION | 4 audio output jack 
+[Read the specifications](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/quadratrack.md)
+
+### QuadraMaster Module: Type AUDIO
+this module is intended to recieve a single mono channel and distribute it to 4 outputs. The user may manipulate de sound space with manual controls (can be assigned to external Midi CC) OR internal automation control thru CV Levels. Mutes and CV levels give more precision and creativity to any quadriphonic scenery design.
+
+[Read the specifications](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/quadratrack.md)
+
+### QuadraEngine Module: Type SEQUENCER
+this module is intended to recieve a single mono channel and distribute it to 4 outputs. The user may manipulate de sound space with manual controls (can be assigned to external Midi CC) OR internal automation control thru CV Levels. Mutes and CV levels give more precision and creativity to any quadriphonic scenery design.
+
+[Read the specifications](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/quadratrack.md)
+
+
 
 ### TASKLIST
 
