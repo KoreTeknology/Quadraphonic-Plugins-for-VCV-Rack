@@ -8,6 +8,11 @@ A set of Quadraphonic tools for VCV Rack:
 
 ### This page is in progress, comeback soon !
 
+<p align="center">
+<img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Com/header_r1.jpg" width=100%>
+</p>
+
+
 ## Builds
 These plugins are available for Windows, Apple and Linux computers. 
 
