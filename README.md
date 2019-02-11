@@ -33,13 +33,13 @@ At any time, you can refer to the Summary page to access tutorial parts : [Summa
 
 ---
 
-## Modules Builds
+## Latest Builds
 
-These plugins will be available for Windows, Apple and Linux computers. 
+Each release can be found in the build folder, to keep track of any modifications and updates 
 
 | Date | Title |
 | --- | --- |
-| **2019-02-19** | Module *QuadraTrack 0.2b* - for **Rack v0.6.2** |
+| **2019-02-19** | Module *QuadraTrack 0.2b* - for **Rack v0.6.2** - Win10/MacOS/Linux |
 
 ---
 
