@@ -34,7 +34,10 @@ The final documentation will have several sections like:
 ## Modules Builds
 
 These plugins will be available for Windows, Apple and Linux computers. 
-**2019-02-19**: 0.2b, the latest version is for Rack v0.6.2
+
+| Date | Title |
+| --- | --- |
+| **2019-02-19** | Module *QuadraTrack 0.2b* - for **Rack v0.6.2** |
 
 ---
 
@@ -43,11 +46,20 @@ These plugins will be available for Windows, Apple and Linux computers.
 ### QuadraTrack Module: Type MIXER
 this module is intended to recieve a single mono channel and distribute it to 4 outputs. The user may manipulate de sound space with manual controls (can be assigned to external Midi CC) OR internal automation control thru CV Levels. Mutes and CV levels give more precision and creativity to any quadriphonic scenery design. [Read the specifications](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/quadratrack.md)
 
+| **Status:** *In progress* | **Title:** *0.2b* |
+| --- | --- |
+
 ### QuadraMaster Module: Type AUDIO
 this module is intended to recieve 4 mono channels and apply various treatments and effects to 4 audio outputs, ready to be connected to the device outputs. The user may set the parameters, accordingly to the performance project and room size of any quadriphonic scenery. [Read the specifications](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/quadramaster.md)
 
+| **Status:** *In progress* | **Title:** *none* |
+| --- | --- |
+
 ### QuadraEngine Module: Type SEQUENCER
 this module is intended to Record/Play/import/export a specific files package. It contains 4 audio files, 1 configuration text file and a midi file. The objectives here is to record live performances and replay them in order to modifiy in real time the quadrphonic motions . [Read the specifications](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/quadraengine.md)
+
+| **Status:** *In progress* | **Title:** *none* |
+| --- | --- |
 
 ---
 
