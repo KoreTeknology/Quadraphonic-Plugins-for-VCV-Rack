@@ -2,53 +2,49 @@
 
 > This page is in progress, please, come back soon !
 
-This is an educational project, based on the creation a set of **Modules** for VCV Rack.
+This is an educational project, based on the creation of a set of **Modules** for VCV Rack, Open-source virtual modular synthesizer  https://github.com/VCVRack/Rack .
+
+
+The initial project was to create a serie of Modules, used for quadraphonic performances. The concept was developped 20 yars ago but only few hardware prototypes were made at this time. The objective is to recreate theses concepts in a virtual environment (VCV Rack) and add some extra features. Here is a list of needed "components":
+
+- **QuadraTrack**, a Single Mono Input track to 4 outputs with controls and options (or 4x4 matrix...)
+- **QuadraMaster**, An master output section with 4 audio inputs/outputs with effects, limiter and options
+- **QuadraPlayer**, a 4 tracks sequencer, recorder/player, audio/midi from files, with 4 audio channel and 16 Midi channel
+
+I can consider this project as a WIP (work in progress), files will be updated on major upgrades without deadline until the complete documentation will be published. it start with a pdf format for printing purpose and a set of files, organized by chapters.
+
+The complete work of documentation is released under Open document license and the modules files is release under Open source license. 
 
 The final documentation will have several sections like:
 - **How to plan your Module Development**, from idea to project planning
 - **How to make a new Module**, an advanced tutorial on the Quadratrack mixer development
 - **How to use/test your new module in VCV Rack**, a complete manual of using VCV Rack and testing modules process
 
-The initial project was to create a serie of Modules, used for quadraphonic performances. The concept was developped 20 yars ago but only few hardware prototypes were made at this time. The objective is to recreate theses concepts in a virtual environment (VCV) and add some extra features. Here is a list of needed "components":
+## Modules Builds
 
-- **QuadraTrack**, a Single Mono Input track to 4 outputs with controls and options
-- **QuadraPhrase**, an advanced sequencer to control the Quadratrack mix during performances
-- **QuadraMaster**, An output section with 4 audio inputs/outputs with effects and options
-- **QuadraPlayer**, a 4 tracks recorder/player, audio/midi from files, with 4 outputs
+These plugins will be available for Windows, Apple and Linux computers. 
+**2019-02-19**: 0.2b, the latest version is for Rack v0.6.2
 
-I can consider this project as a WIP (work in progress), files will be updated on major upgrades without deadline until the complete documentation will be published. it start with a pdf format for printing purpose and a set of files, organized by chapters.
-
-The complete work of documentation is released under Open document license and the modules files is release under Open source license. 
 
 <p align="center">
 <img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Com/header_r1.jpg" width=100%>
 </p>
 
 
-## Modules Builds
-
-These plugins will be available for Windows, Apple and Linux computers. 
-**2019-02-11**: 0.2b, the latest version is for Rack v0.6.2
 
 
-## Overview
+## Overview and description of the modules
 
-Description of the plugins. 
-<p align="center">
-  ## QUADRAPHONIC PLUGINS FOR VCV RACK
-</p>
+### QuadraTrack Module: Type MIXER
 
-# QuadraTrack Module: Type MIXER
-
-
-
-
+Setup | Details
+------------ | -------------
+INPUT SECTION | 1 audio input jack, input knob, vu meter, CV control over VCA-IN
+MATRIX SECTION | 1x4 multiplexer with gain knob, CV control, mute switch
+OUTPUT SECTION | 4 audio output jack 
 
 <br>
 
-
-
-## Work in Progress
 
 ### TASKLIST
 
@@ -59,16 +55,14 @@ Description of the plugins.
 - [ ] Step 5: Publishing the tutorial and the plugins...
 
 <br>
+
 Mockups in progress, previous research of UI Design and user experience.
 <p align="center">
 <img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Mockups/protoUI1.jpg" width=90%>
 </p>
 
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+
 
 
 ### Instructions ###
