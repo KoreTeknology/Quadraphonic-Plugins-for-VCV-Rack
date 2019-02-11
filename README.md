@@ -1,12 +1,23 @@
 # Quadraphonic-Plugins-for-VCV-Rack
 
-A set of **Quadraphonic tools** for VCV Rack:
+> This page is in progress, comeback soon !
+
+This is an educational project, based on the creation a set of **Modules** for VCV Rack.
+The final documentation will have several sections like:
+- **How to plan your Module Development**, From idea to project planning
+- **How to make a new Module**, an advanced tutorial on the Quadratrack mixer development
+- **How to use/test your new module in VCV Rack**, a complete manual of using VCV Rack and testing modules process
+
+The initial project was to create a serie of Modules, used for quadraphonic performances. The concept was developped 20 yars ago but only few hardware prototypes were made at this time. The objective is to recreate theses concepts in a virtual environment (VCV) and add some extra features. Here is a list of needed "components":
+
 - **QuadraTrack**, a Single Mono Input track to 4 outputs with options
 - **QuadraPhrase**, an advanced sequencer to control the Quadratrack mixer
 - **QuadraMaster**, An output section with 4 audio outputs with options
 - **QuadraPlayer**, a 4 tracks recorder/player, audio from files, with 4 outputs
 
-> This page is in progress, comeback soon !
+We can consider this project as a WIP (work in progress), files will be updated on major upgrades without deadline.
+
+
 
 <p align="center">
 <img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Com/header_r1.jpg" width=100%>
