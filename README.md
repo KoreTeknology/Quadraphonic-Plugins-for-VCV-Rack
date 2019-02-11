@@ -6,6 +6,8 @@ A set of Quadraphonic tools for VCV Rack:
 - QuadraMaster, An output section with 4 audio outputs with options
 - QuadraPlayer, a 4 tracks recorder/player, audio from files, with 4 outputs
 
+### This page is in progress, comeback soon !
+
 ## Overview
 
 Description of the plugins. 
@@ -28,3 +30,24 @@ Mockups in progress, previous research of UI Design and user experience.
 <p align="center">
 <img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Mockups/protoUI1.jpg" width=90%>
 </p>
+
+### Instructions ###
+
+* **Open** ... !
+* **Select** ....
+* **Press** ... et voila !
+
+
+## Authors
+
+* **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology)
+
+Please, feel free to contact me, and/or discuss further development or ideas for these plugins, thanks ;)
+
+## License
+
+This project is licensed under the BSD License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* This work is dedicated to all VCV users ;)
