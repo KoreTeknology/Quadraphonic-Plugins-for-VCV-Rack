@@ -42,6 +42,13 @@ Mockups in progress, previous research of UI Design and user experience.
 <img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Mockups/protoUI1.jpg" width=90%>
 </p>
 
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
 ### Instructions ###
 
 * **Open** ... !
@@ -62,3 +69,11 @@ This project is licensed under the BSD License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * This work is dedicated to all VCV users ;)
+
+
+
+```c++
+if (isAwesome){
+  return true
+}
+```
