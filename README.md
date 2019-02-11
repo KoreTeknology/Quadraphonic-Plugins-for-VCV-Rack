@@ -31,8 +31,6 @@ These plugins will be available for Windows, Apple and Linux computers.
 </p>
 
 
-
-
 ## Overview and description of the modules
 
 ### QuadraTrack Module: Type MIXER
@@ -42,9 +40,6 @@ Setup | Details
 INPUT SECTION | 1 audio input jack, input knob, vu meter, CV control over VCA-IN
 MATRIX SECTION | 1x4 multiplexer with gain knob, CV control, mute switch
 OUTPUT SECTION | 4 audio output jack 
-
-<br>
-
 
 ### TASKLIST
 
@@ -62,31 +57,22 @@ Mockups in progress, previous research of UI Design and user experience.
 </p>
 
 
-
-
-
-### Instructions ###
-
-* **Open** ... !
-* **Select** ....
-* **Press** ... et voila !
-
-
 ## Authors
 
 * **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology)
 
 Please, feel free to contact me, and/or discuss further development or ideas for these plugins, thanks ;)
 
+
 ## License
 
 This project is licensed under the BSD License - see the [LICENSE.md](LICENSE.md) file for details
 
+
 ## Acknowledgments
 
 * This work is dedicated to all VCV users ;)
-
-
+* i will try to keep all types of codes as clear as possible using syntax highlighting and line referencing
 
 ```c++
 if (isAwesome){
