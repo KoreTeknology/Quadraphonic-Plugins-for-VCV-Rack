@@ -32,9 +32,8 @@ These plugins will be available for Windows, Apple and Linux computers.
 **2019-02-19**: 0.2b, the latest version is for Rack v0.6.2
 
 
-<p align="center">
-<img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Com/header_mod1.jpg" width=100%>
-</p>
+
+
 
 ## Overview and short description of the modules
 
