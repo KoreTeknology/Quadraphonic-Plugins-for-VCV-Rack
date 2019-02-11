@@ -2,6 +2,12 @@
 
 > This page is in progress, please, come back soon !
 
+### TASKLIST before first release
+- [x] Step 1: Setup home page and documentation structure
+- [ ] Step 2: Uploading first code parts in documentation
+- [ ] Step 3: Making available the module files and builds
+<br>
+
 This is an educational project, based on the creation of a set of **Modules** for VCV Rack, Open-source virtual modular synthesizer  https://github.com/VCVRack/Rack .
 
 
@@ -47,17 +53,6 @@ this module is intended to recieve a single mono channel and distribute it to 4 
 
 [Read the specifications](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/quadratrack.md)
 
-
-
-### TASKLIST
-
-- [x] Step 1: Setup of development environment
-- [x] Step 2: Implementing UI code and variables
-- [ ] Step 3: Implementing DSP code
-- [ ] Step 4: Compiling for all plateforms
-- [ ] Step 5: Publishing the tutorial and the plugins...
-
-<br>
 
 Mockups in progress, previous research of UI Design and user experience.
 <p align="center">
