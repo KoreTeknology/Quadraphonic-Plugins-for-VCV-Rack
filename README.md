@@ -67,6 +67,11 @@ Mockups in progress, previous research of UI Design and user experience.
 Please, feel free to contact me, and/or discuss further development or ideas for these plugins, thanks ;)
 
 
+## Translations
+
+I would like to publish it in spanish and french as well, Please, feel free to contact me it you are interested ;)
+
+
 ## License
 
 This project is licensed under the BSD License - see the [LICENSE.md](LICENSE.md) file for details
