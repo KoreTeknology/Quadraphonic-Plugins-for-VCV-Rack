@@ -1,15 +1,9 @@
 # Quadraphonic-Plugins-for-VCV-Rack
 
-> This page is in progress, please, come back soon !
-
-### TASKLIST before first release
-- [x] Step 1: Setup home page and documentation structure
-- [ ] Step 2: Uploading first code parts in documentation
-- [ ] Step 3: Making available the module files and builds
-
----
-
 This is an educational project, based on the creation of a set of **Modules for VCV Rack**, Open-source virtual modular synthesizer  https://github.com/VCVRack/Rack .
+
+
+<img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Com/module1_github.jpg" width=100%>
 
 
 The initial project was to create a serie of Modules, used for **quadraphonic performances**. The concept was developped 20 years ago but only few hardware prototypes were made at this time.  
@@ -104,3 +98,11 @@ if (isAwesome){
   return true
 }
 ```
+> This page is in progress, please, come back soon !
+
+### TASKLIST before first release
+- [x] Step 1: Setup home page and documentation structure
+- [ ] Step 2: Uploading first code parts in documentation
+- [ ] Step 3: Making available the module files and builds
+
+---
