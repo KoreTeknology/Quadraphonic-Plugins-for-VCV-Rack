@@ -35,6 +35,23 @@ In this case, you want to join the group of musician-developper, and that´s fin
      - Draw some mockups and define features
    - **Tutorial 06:** Use the new tutorial´s template > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
 
+---
+
+4. building your first created module
+   - **Tutorial 06:** Building basic components > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+     - Creating Input and outpout ports
+     - Creating aknobs that controls a num value
+     - Creating aswitch button to change a boolean value
+     - Creating a vu meter to visualize a value
+     - Creating a momentary button
+     - Creating a menu with static infos
+   - **Tutorial 07:** Customizing your components > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+     - Creating your background layer
+     - Creating new controls
+     - Creating a screen panel
+     - Adding some conditional infos in the menu
+     - Adding some folders for presets
+   
 ...
 
 todo
