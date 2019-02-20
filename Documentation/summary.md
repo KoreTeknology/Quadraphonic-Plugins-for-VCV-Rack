@@ -39,7 +39,7 @@ In this case, you want to join the group of musician-developper, and that´s fin
 
 4. Building your first created module
    - **Tutorial 06:** Building basic components > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
-     - Objective, creating a simple audio circuit, aka "mixer"
+     - Objective, creating a simple audio circuit, aka "THE MIXER"
      - Creating Input and outpout ports
      - Creating a knob that controls a num value
      - Creating a switch button to change a boolean value
@@ -52,7 +52,22 @@ In this case, you want to join the group of musician-developper, and that´s fin
      - Creating a screen panel
      - Adding some conditional infos in the menu
      - Adding some folders for presets
-   
+
+---
+
+5. Building an advanced module
+   - **Tutorial 08:** Creating an audio source > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+     - Objective, creating a new audio circuit, aka "THE SAMPLER"
+     - ...
+   - **Tutorial 09:** Creating a wave generator > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+     - Objective, creating a new audio circuit, aka "THE SYNTHETIZER"
+     - ...
+   - **Tutorial 10:** Creating a filter section > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+     - Objective, creating a new audio circuit, aka "THE EQUALIZER"
+     - ...
+  
+---
+
 ...
 
 todo
