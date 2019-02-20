@@ -37,11 +37,12 @@ In this case, you want to join the group of musician-developper, and that´s fin
 
 ---
 
-4. building your first created module
+4. Building your first created module
    - **Tutorial 06:** Building basic components > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+     - Objective, creating a simple audio circuit, aka "mixer"
      - Creating Input and outpout ports
-     - Creating aknobs that controls a num value
-     - Creating aswitch button to change a boolean value
+     - Creating a knob that controls a num value
+     - Creating a switch button to change a boolean value
      - Creating a vu meter to visualize a value
      - Creating a momentary button
      - Creating a menu with static infos
