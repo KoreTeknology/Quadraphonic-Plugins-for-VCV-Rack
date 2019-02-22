@@ -29,7 +29,7 @@ The final documentation will cover several sections like:
 
 At any time, you can refer to the Summary page to access tutorial parts : [Summary](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/summary.md)
 
-I am moving the documentation to this page: https://github.com/KoreTeknology/Tutorial-How-to-create-modules-for-VCV-Rack
+I am moving the documentation to this page: [Tutorials Section](https://github.com/KoreTeknology/Tutorial-How-to-create-modules-for-VCV-Rack)
 
 ---
 
