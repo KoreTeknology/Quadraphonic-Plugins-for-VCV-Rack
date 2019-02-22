@@ -2,8 +2,21 @@
 
 This is an educational project, based on the creation of a set of **Modules for VCV Rack**, Open-source virtual modular synthesizer  https://github.com/VCVRack/Rack .
 
+## Latest Builds
 
-<img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Com/advmodule1_github.jpg" width=100%>
+Each release can be found in the Releases Section, [Here !](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases)
+
+| Date | Title |
+| --- | --- |
+| **2019-02-22** | Module *Quadraphonics 0.6.3* - for **Rack v0.6x** - Win10/MacOS/Linux |
+| **2019-02-19** | Module *Quadraphonics 0.6.2* - for **Rack v0.6x** - Win10/MacOS/Linux |
+| **2019-02-17** | Module *Quadraphonics 0.6.1* - for **Rack v0.6x** - Win10/MacOS/Linux |
+| **2019-02-16** | Module *Quadraphonics 0.6.0* - for **Rack v0.6x** - Win10/MacOS/Linux |
+
+---
+
+
+<img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Com/alpha0628.jpg" width=100%>
 
 ---
 
@@ -33,15 +46,7 @@ I am moving the documentation to this page: [Tutorials Section](https://github.c
 
 ---
 
-## Latest Builds
 
-Each release can be found in the build folder, to keep track of any modifications and updates 
-
-| Date | Title |
-| --- | --- |
-| **2019-02-19** | Module *QuadraTrack 0.2b* - for **Rack v0.6.2** - Win10/MacOS/Linux |
-
----
 
 ## Overview and short description of the modules
 
