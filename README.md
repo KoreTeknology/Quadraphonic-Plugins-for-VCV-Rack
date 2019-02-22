@@ -5,7 +5,9 @@ This is an educational project, based on the creation of a set of **Modules for 
 
 <img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Com/advmodule1_github.jpg" width=100%>
 
+---
 
+## History
 The initial project was to create a serie of Modules, used for **quadraphonic performances**. The concept was developped 20 years ago but only few hardware prototypes were made at this time.  
 
 See 2002 Patent Document: https://patents.google.com/patent/FR2839601A1/en?oq=FR2839601A1
@@ -26,6 +28,8 @@ The final documentation will cover several sections like:
 - **How to use/test your new module in VCV Rack**, a complete manual of using VCV Rack and testing modules process
 
 At any time, you can refer to the Summary page to access tutorial parts : [Summary](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/summary.md)
+
+I am moving the documentation to this page: https://github.com/KoreTeknology/Tutorial-How-to-create-modules-for-VCV-Rack
 
 ---
 
