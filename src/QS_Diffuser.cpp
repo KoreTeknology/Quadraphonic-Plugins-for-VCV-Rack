@@ -1,7 +1,7 @@
 //***********************************************************************************************
 //
 // QuadraphonicStudio Modules for VCV Rack by Uriel deveaud 
-// Module name: Single Track Diffuser
+// Module name: Mono Track Diffuser MD-1200 MK1
 // https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack
 //  
 //***********************************************************************************************
@@ -67,8 +67,11 @@ struct QS_Diffuser : Module {
 	float gain_gain5 ;
 	int gain_affi5 ;
 
+
+	// Declare all params
 	QS_Diffuser() : Module(NUM_PARAMS, NUM_INPUTS, NUM_OUTPUTS, NUM_LIGHTS) {}
-	
+
+
 	// Interative Features
 	void step() override {
 		float cv = 1.f;
@@ -119,7 +122,6 @@ struct QS_Diffuser : Module {
 		outputs[A4_OUTPUT].value = in1 * params[INLEVEL_PARAM].value * cv * params[OUTLEVEL4_PARAM].value * cvo4;
 		outputs[ADIRECT_OUTPUT].value = in1 * params[DOUTLEVEL_PARAM].value;
 
-
 		// Vumeter
 		float signal_in = inputs[AUDIO_INPUT].value * params[INLEVEL_PARAM].value * cv;
 		float signal_out1 = outputs[A1_OUTPUT].value;
@@ -128,6 +130,7 @@ struct QS_Diffuser : Module {
 		float signal_out4 = outputs[A4_OUTPUT].value;
 
 		vuBar.dBInterval = 10;
+
 		// loop for each meter
 		for (int i = 0; i < 5; i++){
 			vuBar.setValue(signal_in / 10.0f);
@@ -171,15 +174,14 @@ struct QS_Diffuser : Module {
 
 
 // UI Panel
+
 struct QS_DiffuserWidget : ModuleWidget {
+	Menu *createContextMenu() override;
 	QS_DiffuserWidget(QS_Diffuser *module) : ModuleWidget(module) {
+
+		// original set of bg
 		setPanel(SVG::load(assetPlugin(plugin, "res/bg_diffuser.svg")));
-		/*
-		addChild(Widget::create<QS_Screw>(Vec(RACK_GRID_WIDTH, 0)));
-		addChild(Widget::create<QS_Screw>(Vec(box.size.x - 2 * RACK_GRID_WIDTH, 0)));
-		addChild(Widget::create<QS_Screw>(Vec(RACK_GRID_WIDTH, RACK_GRID_HEIGHT - RACK_GRID_WIDTH)));
-		addChild(Widget::create<QS_Screw>(Vec(box.size.x - 2 * RACK_GRID_WIDTH, RACK_GRID_HEIGHT - RACK_GRID_WIDTH)));
-		*/
+
 		// Input section
 		addInput(Port::create<QS_jackgoldPort>(Vec(20, 25), Port::INPUT, module, QS_Diffuser::AUDIO_INPUT));
 
@@ -197,13 +199,13 @@ struct QS_DiffuserWidget : ModuleWidget {
 		addInput(Port::create<QS_cvsilverPort>(Vec(108, 28), Port::INPUT, module, QS_Diffuser::CV1_INPUT));
 		
 		// Outputs section
-		addOutput(Port::create<QS_jacksilverPort>(Vec(20, 100), Port::OUTPUT, module, QS_Diffuser::A1_OUTPUT));
+		addOutput(Port::create<QS_jackredPort>(Vec(20, 100), Port::OUTPUT, module, QS_Diffuser::A1_OUTPUT));
 		addOutput(Port::create<QS_jackredPort>(Vec(20, 151), Port::OUTPUT, module, QS_Diffuser::A2_OUTPUT));
-		addOutput(Port::create<QS_jacksilverPort>(Vec(20, 204), Port::OUTPUT, module, QS_Diffuser::A3_OUTPUT));
+		addOutput(Port::create<QS_jackredPort>(Vec(20, 204), Port::OUTPUT, module, QS_Diffuser::A3_OUTPUT));
 		addOutput(Port::create<QS_jackredPort>(Vec(20, 256), Port::OUTPUT, module, QS_Diffuser::A4_OUTPUT));
 		
 		// Outputs Knob with autopot
-		addParam(ParamWidget::create<QS_potsmall>(Vec(64, 98), module, QS_Diffuser::OUTLEVEL1_PARAM, 0.0, 1.0, 0.0));
+		addParam(ParamWidget::create<QS_potsmall>(Vec(64, 98), module, QS_Diffuser::OUTLEVEL1_PARAM, 0.0, 1.0, 1.0));
 		{
 			QS_AutomatedPot *gaindisplay2 = new QS_AutomatedPot();
 			gaindisplay2->box.pos = Vec(79.75, 113.75); // by the center + 15.75!
@@ -213,7 +215,7 @@ struct QS_DiffuserWidget : ModuleWidget {
 			addChild(gaindisplay2);
 		}
 
-		addParam(ParamWidget::create<QS_potsmall>(Vec(64, 151), module, QS_Diffuser::OUTLEVEL2_PARAM, 0.0, 1.0, 0.0));
+		addParam(ParamWidget::create<QS_potsmall>(Vec(64, 151), module, QS_Diffuser::OUTLEVEL2_PARAM, 0.0, 1.0, 1.0));
 		{
 			QS_AutomatedPot *gaindisplay3 = new QS_AutomatedPot();
 			gaindisplay3->box.pos = Vec(79.75, 166.75); // by the center + 15.75!
@@ -223,7 +225,7 @@ struct QS_DiffuserWidget : ModuleWidget {
 			addChild(gaindisplay3);
 		}
 
-		addParam(ParamWidget::create<QS_potsmall>(Vec(64, 202), module, QS_Diffuser::OUTLEVEL3_PARAM, 0.0, 1.0, 0.0));
+		addParam(ParamWidget::create<QS_potsmall>(Vec(64, 202), module, QS_Diffuser::OUTLEVEL3_PARAM, 0.0, 1.0, 1.0));
 		{
 			QS_AutomatedPot *gaindisplay4 = new QS_AutomatedPot();
 			gaindisplay4->box.pos = Vec(79.75, 217.75); // by the center + 15.75!
@@ -233,7 +235,7 @@ struct QS_DiffuserWidget : ModuleWidget {
 			addChild(gaindisplay4);
 		}
 
-		addParam(ParamWidget::create<QS_potsmall>(Vec(64, 254), module, QS_Diffuser::OUTLEVEL4_PARAM, 0.0, 1.0, 0.0));
+		addParam(ParamWidget::create<QS_potsmall>(Vec(64, 254), module, QS_Diffuser::OUTLEVEL4_PARAM, 0.0, 1.0, 1.0));
 		{
 			QS_AutomatedPot *gaindisplay5 = new QS_AutomatedPot();
 			gaindisplay5->box.pos = Vec(79.75, 269.75); // by the center + 15.75!
@@ -309,8 +311,32 @@ struct QS_DiffuserWidget : ModuleWidget {
 };
 
 
+// integrated menu > Right Click Panel
+Menu *QS_DiffuserWidget::createContextMenu() {
+	Menu *menu = ModuleWidget::createContextMenu();
+
+	MenuLabel *spacerLabel = new MenuLabel();
+	menu->addChild(spacerLabel);
+
+    MenuLabel *modeLabel = new MenuLabel();
+	modeLabel->text = "-------------- FEATURES:";
+	menu->addChild(modeLabel);
+
+	MenuLabel *modeLabel2 = new MenuLabel();
+	modeLabel2->text = "Multiple";
+	//modeLabel2->text += "Level control with CV input : Volume automation \n";
+	menu->addChild(modeLabel2);
+
+	MenuLabel *modeLabel3 = new MenuLabel();
+	modeLabel3->text = "Quadraphonics Audio";
+	menu->addChild(modeLabel3);
+
+
+	return menu;
+}
+
 // Specify the Module and ModuleWidget subclass, human-readable
 // author name for categorization per plugin, module slug (should never
 // change), human-readable module name, and any number of tags
 // (found in `include/tags.hpp`) separated by commas.
-Model *modelQS_Diffuser = Model::create<QS_Diffuser, QS_DiffuserWidget>("Quadraphonics", "QS_Diffuser", ":: Mono Track Diffuser v1.2", MIXER_TAG, UTILITY_TAG);
+Model *modelQS_Diffuser = Model::create<QS_Diffuser, QS_DiffuserWidget>("Quadraphonics", "QS_Diffuser", ":: Mono Track Diffuser MD-1200 MKI", MULTIPLE_TAG, UTILITY_TAG);

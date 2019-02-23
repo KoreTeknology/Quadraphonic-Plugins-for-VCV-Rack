@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="29.354px" height="29.357px" viewBox="0 0 29.354 29.357" enable-background="new 0 0 29.354 29.357" xml:space="preserve">
+<g id="svg15246" inkscape:version="0.92.2 5c3e80d, 2017-08-06" sodipodi:docname="PJ3410.svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+	
+		<sodipodi:namedview  units="px" inkscape:window-maximized="0" inkscape:window-y="0" inkscape:window-x="1280" inkscape:window-height="1434" inkscape:window-width="1274" inkscape:current-layer="layer1" inkscape:pageshadow="2" inkscape:pageopacity="0.0" fit-margin-bottom="0" fit-margin-right="0" inkscape:document-units="mm" fit-margin-left="0" fit-margin-top="0" showgrid="false" inkscape:cy="-37.491484" inkscape:cx="6.9359976" inkscape:zoom="3.959798" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base">
+		</sodipodi:namedview>
+	<g id="layer1" transform="translate(-74.416306,-97.613551)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+		<path id="path7751" inkscape:connector-curvature="0" fill="#0C0C0C" stroke="#020202" stroke-width="0.25" d="M89.091,126.616
+			c-7.898-0.051-14.324-6.48-14.32-14.336c0.004-7.856,6.426-14.277,14.32-14.313c7.864,0.039,14.293,6.461,14.321,14.313
+			c-0.016,7.856-6.438,14.289-14.317,14.336H89.091z"/>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-841.061" y1="-853.167" x2="-819.7275" y2="-853.167" gradientTransform="matrix(-4.371139e-008 -1 -1 4.371139e-008 -764.0854 -721.1142)">
+			<stop  offset="0.2133" style="stop-color:#020202"/>
+			<stop  offset="0.3982" style="stop-color:#181818"/>
+			<stop  offset="0.7961" style="stop-color:#424242"/>
+			<stop  offset="1" style="stop-color:#BFBFBF"/>
+		</linearGradient>
+		<ellipse fill="url(#SVGID_1_)" cx="89.081" cy="109.28" rx="12.5" ry="10.667"/>
+		<path id="path7757" inkscape:connector-curvature="0" fill="#A3A3A3" stroke="#0E0B00" d="M78.45,112.28
+			c0.031,5.899,4.742,10.614,10.644,10.645c5.875-0.02,10.629-4.762,10.621-10.645c-0.007-5.867-4.757-10.604-10.621-10.617
+			C83.2,101.686,78.493,106.386,78.45,112.28"/>
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="10309.4531" y1="-853.1792" x2="10424.2422" y2="-853.1792" gradientTransform="matrix(-4.371139e-008 0.114 -1 -4.981646e-009 -764.0854 -1071.0649)">
+			<stop  offset="0" style="stop-color:#050505;stop-opacity:0.5"/>
+			<stop  offset="1" style="stop-color:#6E6E6E;stop-opacity:0.5"/>
+		</linearGradient>
+		<ellipse fill="url(#SVGID_2_)" cx="89.093" cy="110.756" rx="7.489" ry="6.543"/>
+		<path id="path7759" inkscape:connector-curvature="0" d="M83.411,112.288c0.019,3.146,2.527,5.66,5.679,5.676
+			c3.133-0.012,5.668-2.539,5.661-5.676c0-3.133-2.532-5.656-5.661-5.664C85.946,106.636,83.435,109.144,83.411,112.288"/>
+		<path id="path18715" inkscape:connector-curvature="0" fill="none" stroke="#000407" stroke-width="0.25" d="M81,112.285
+			c0.022,4.484,3.604,8.064,8.093,8.09c4.465-0.018,8.074-3.619,8.069-8.09c0-4.464-3.61-8.063-8.069-8.072
+			C84.613,104.23,81.034,107.804,81,112.285"/>
+	</g>
+</g>
+<g id="Capa_2">
+</g>
+</svg>

@@ -1,20 +1,12 @@
+//***********************************************************************************************
+//
+// QuadraphonicStudio Modules for VCV Rack by Uriel deveaud 
+// Module name: Main hpp for Quadraphonics modules
+// https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack
+//  
+//***********************************************************************************************
+
 #include "rack.hpp"
-
-// ////////////////////////////////////////////////////////////////////////////////
-// TODO
-
-/*
-module 1 : 4 Audio Files Sync player 				= 		NOT STARTED
-Module 2 : 1 Audio Track INPUT Diffuser 			= 			IN PROGRESS
-Module 3 : 4x4 Audio Tracks OUTPUTS Merger 			= 			IN PROGRESS
-Module 4 : 4 Audio Tracks OUTPUTS Master/recorder	=		NOT STARTED
-Module 5 : 16 CV Channels OUTPUTS Phase Sequencer	=		NOT STARTED
-Module 6 : 4 Audio Tracks/CV Channels Vu-meters		=		    In PROGRESS
-.. +
-Custom Blank Panels 								= 				DONE :)
-*/
-
-// ////////////////////////////////////////////////////////////////////////////////
 
 using namespace rack;
 
@@ -23,12 +15,10 @@ extern Plugin *plugin;
 
 // Forward-declare each Model, defined in each module source file
 extern Model *modelQS_Diffuser;
-//extern Model *modelQS_Merger;
-//extern Model *modelQS_AudioStation;
-//extern Model *modelQS_Blank4;
-//extern Model *modelSANDBOX;
-
-
+extern Model *modelQS_Merger;
+extern Model *modelQS_AudioOutputs;
+extern Model *modelQS_Vumeter;
+extern Model *modelQS_Blank4;
 
 // COMPONENTS
 
@@ -40,7 +30,8 @@ struct QS_Screw : SVGScrew {
 		box.size = sw->box.size;
 	}
 };
-// Switch button Push
+
+// Custom Switch push button
 struct BtnMuteSwitch : SVGSwitch, ToggleSwitch {
     BtnMuteSwitch() {
         addFrame(SVG::load(assetPlugin(plugin, "res/QS_Components/QS_mute_off.svg")));
@@ -48,6 +39,7 @@ struct BtnMuteSwitch : SVGSwitch, ToggleSwitch {
     }
 };
 
+// custom knob
 struct QS_potsmall : SVGKnob {
     QS_potsmall() {
 		minAngle = -0.82 * M_PI;
@@ -56,11 +48,12 @@ struct QS_potsmall : SVGKnob {
     }
 };
 
+// Custom linear fader
 struct QS_Fader : SVGFader {
 	QS_Fader() { // 15x74px > 213
 		Vec margin = Vec(4, 4);
 		maxHandlePos = Vec(-1.5, -8).plus(margin);
-		minHandlePos = Vec(-1.5, 195).plus(margin);
+		minHandlePos = Vec(-1.5, 111).plus(margin); //213-8 = 195px ... 147-8=139
 		background->svg = SVG::load(assetPlugin(plugin,"res/QS_Components/QS_fader_line.svg"));
 		background->wrap();
 		background->box.pos = margin;
@@ -70,6 +63,7 @@ struct QS_Fader : SVGFader {
 	}
 };
 
+// Custom Vu meter lights box
 template <typename BASE>
  struct VuMeter : BASE {
  	VuMeter() {
@@ -90,6 +84,7 @@ struct BlueLight : GrayModuleLightWidget {
 	}
 };
 
+// custom Color Jack ports
 struct QS_jackgoldPort : SVGPort {
 	QS_jackgoldPort() {
 		setSVG(SVG::load(assetPlugin(plugin,"res/QS_Components/QS_jack_gold.svg")));
@@ -120,21 +115,7 @@ struct QS_cvsilverPort : SVGPort {
 	}
 };
 
-/*
-struct RectModuleLightWidget : ModuleLightWidget {
-	void drawLight(NVGcontext *vg) override {...}
-};
-
-struct MyRedRectModuleLightWidget : RectModuleLightWidget {
-	MyRedRectModuleLightWidget() {
-		bgColor = ...;
-		borderColor = ...;
-		addBaseColor(...);
-		box.size = ...;
-	}
-};
-*/
-
+// Custom visual helper for CV input to knob over layer
 struct QS_AutomatedPot : TransparentWidget {
 	float d;
 	float *gainX ;
