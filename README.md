@@ -15,8 +15,11 @@ Each release can be found in the Releases Section, [Here !](https://github.com/K
 
 ---
 
-
 <img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Com/alpha0628.jpg" width=100%>
+
+---
+
+<img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Com/cablesQuad2.jpg width=100%>
 
 ---
 
