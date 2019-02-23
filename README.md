@@ -8,10 +8,10 @@ Each release can be found in the Releases Section, [Here !](https://github.com/K
 
 | Date | Title |
 | --- | --- |
-| **2019-02-22** | Module *Quadraphonics 0.6.3* - for **Rack v0.6x** - Win10/MacOS/Linux |
-| **2019-02-19** | Module *Quadraphonics 0.6.2* - for **Rack v0.6x** - Win10/MacOS/Linux |
-| **2019-02-17** | Module *Quadraphonics 0.6.1* - for **Rack v0.6x** - Win10/MacOS/Linux |
-| **2019-02-16** | Module *Quadraphonics 0.6.0* - for **Rack v0.6x** - Win10/MacOS/Linux |
+| **2019-02-22** | Module *Quadraphonics 0.6.3* - for **VCV Rack v0.6x** - Win10/MacOS/Linux |
+| **2019-02-19** | Module *Quadraphonics 0.6.2* - for **VCV Rack v0.6x** - Win10/MacOS/Linux |
+| **2019-02-17** | Module *Quadraphonics 0.6.1* - for **VCV Rack v0.6x** - Win10/MacOS/Linux |
+| **2019-02-16** | Module *Quadraphonics 0.6.0* - for **VCV Rack v0.6x** - Win10/MacOS/Linux |
 
 ---
 
