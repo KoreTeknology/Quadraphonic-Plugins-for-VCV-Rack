@@ -4,18 +4,16 @@
 
 <img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Com/presentation_s1.jpg" width=100%>
 
-This is an educational project, based on the creation of a set of **Modules for VCV Rack**, Open-source virtual modular synthesizer  https://github.com/VCVRack/Rack .
+This is an educational project, based on the creation of a set of **Modules for VCV Rack**, the Open-source virtual modular synthesizer  https://github.com/VCVRack/Rack .
 
 ## Latest Builds
 
-Each release can be found in the Releases Section, [Here !](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases)
-
-| Date | Title | Download |
+| Date | Title | Downloads |
 | --- | --- | --- |
-| **2019-02-22** | Module *Quadraphonics 0.6.3* - for **VCV Rack v0.6x** - Win10/MacOS/Linux |[Here !](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases) |
-| **2019-02-19** | Module *Quadraphonics 0.6.2* - for **VCV Rack v0.6x** - Win10/MacOS/Linux | |[Here !](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases) |
-| **2019-02-17** | Module *Quadraphonics 0.6.1* - for **VCV Rack v0.6x** - Win10/MacOS/Linux | |[Here !](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases) |
-| **2019-02-16** | Module *Quadraphonics 0.6.0* - for **VCV Rack v0.6x** - Win10/MacOS/Linux | |[Here !](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases) |
+| **2019-02-22** | Module *Quadraphonics* - for **VCV Rack v0.6x** - Win10/MacOS/Linux |[0.6.3](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases) |
+| **2019-02-19** | Module *Quadraphonics* - for **VCV Rack v0.6x** - Win10/MacOS/Linux | |[0.6.2](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases) |
+| **2019-02-17** | Module *Quadraphonics* - for **VCV Rack v0.6x** - Win10/MacOS/Linux | |[0.6.15](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases) |
+| **2019-02-16** | Module *Quadraphonics* - for **VCV Rack v0.6x** - Win10/MacOS/Linux | |[0.6.11](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases) |
 
 ---
 
