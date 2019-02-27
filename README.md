@@ -53,7 +53,7 @@ I will publish a documentation as soon as i start to build the device... stay tu
 
 ## Author
 
-* **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology)
+* **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology) from 2001
 
 Please, feel free to contact me, and/or discuss further developments or ideas for those plugins, thanks ;)
 Collaboration projects are always welcome ;)
@@ -64,7 +64,7 @@ Collaboration projects are always welcome ;)
 
 
 ## History
-The initial project was to create a serie of Modules, used for **quadraphonic performances**. I developped the concept 20 years ago but only one hardware prototype was made at this time and it didn´t have a good looking, to be honest.  
+The initial project was to create a serie of Modules, used for **quadraphonic performances**. I developped the concept 20 years ago, but only one hardware prototype was made at this time and it didn´t have a good looking, to be honest, even if it was working as expected.  
 See 2002 Patent Document: https://patents.google.com/patent/FR2839601A1/en?oq=FR2839601A1
 
 The objective is to recreate theses concepts in a virtual environment (VCV Rack) and add some extra features. Here is a list of needed "audio components":
