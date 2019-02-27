@@ -13,7 +13,6 @@ Each release can be found in the Releases Section, [Here !](https://github.com/K
 | Date | Title | Download |
 | --- | --- | --- |
 | **2019-02-22** | Module *Quadraphonics 0.6.3* - for **VCV Rack v0.6x** - Win10/MacOS/Linux |[Here !](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases) |
-
 | **2019-02-19** | Module *Quadraphonics 0.6.2* - for **VCV Rack v0.6x** - Win10/MacOS/Linux | |[Here !](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases) |
 | **2019-02-17** | Module *Quadraphonics 0.6.1* - for **VCV Rack v0.6x** - Win10/MacOS/Linux | |[Here !](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases) |
 | **2019-02-16** | Module *Quadraphonics 0.6.0* - for **VCV Rack v0.6x** - Win10/MacOS/Linux | |[Here !](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases) |
