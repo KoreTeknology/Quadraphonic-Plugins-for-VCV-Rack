@@ -1,12 +1,12 @@
 # Quadraphonic-Plugins-for-VCV-Rack
 
+<img src="https://img.shields.io/badge/Quadraphonics-VCV%20Modules-yellowgreen.svg" alt="Name" /> <img src="https://img.shields.io/badge/Uriel Deveaud-2019-blue.svg" />  <img src="https://img.shields.io/badge/C++-Coding-purple.svg" />    <img src="https://img.shields.io/badge/Audio Solution-Virtual Eurorack-lightgrey.svg" />
+
 This is an educational project, based on the creation of a set of **Modules for VCV Rack**, Open-source virtual modular synthesizer  https://github.com/VCVRack/Rack .
 
 ## Latest Builds
 
 Each release can be found in the Releases Section, [Here !](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases)
-
-<img src="https://img.shields.io/badge/Quadraphonics-VCV%20Modules-yellowgreen.svg" alt="Name" /> <img src="https://img.shields.io/badge/Uriel Deveaud-2019-blue.svg" />
 
 | Date | Title |
 | --- | --- |
