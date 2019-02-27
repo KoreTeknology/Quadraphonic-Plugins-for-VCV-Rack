@@ -44,6 +44,7 @@ this module is intended to Record/Play/import/export a specific files package. I
 
 At the moment, i am focusing on re-formating the module serie, by UI design, but also by new features. The MKII serie will be improved at various levels, here are some preview drawings and plans.
 
+<img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Com/preview_mk2.jpg" width=100%>
 
 
 ---
