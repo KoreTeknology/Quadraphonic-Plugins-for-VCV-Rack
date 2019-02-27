@@ -4,7 +4,8 @@
 
 <img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Com/presentation_s1.jpg" width=100%>
 
-This is an educational project, based on the creation of a set of **Modules for VCV Rack**, the Open-source virtual modular synthesizer  https://github.com/VCVRack/Rack .
+The aim of this project is to produce a serie of audio tools to perform multi-channels mix and "Surround" sequences. This is an Educational and Research project, based on the creation of a set of **Quadraphonics Modules** for VCV Rack, the Open-source virtual modular synthesizer  https://github.com/VCVRack/Rack . 
+
 
 ## Latest Builds
 
