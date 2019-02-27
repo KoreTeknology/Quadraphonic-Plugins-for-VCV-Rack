@@ -6,6 +6,8 @@ This is an educational project, based on the creation of a set of **Modules for 
 
 Each release can be found in the Releases Section, [Here !](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases)
 
+<img src="https://img.shields.io/badge/Quadraphonics-VCV%20Modules-yellowgreen.svg" alt="Name" /> <img src="https://img.shields.io/badge/Uriel Deveaud-2019-blue.svg" />
+
 | Date | Title |
 | --- | --- |
 | **2019-02-22** | Module *Quadraphonics 0.6.3* - for **VCV Rack v0.6x** - Win10/MacOS/Linux |
