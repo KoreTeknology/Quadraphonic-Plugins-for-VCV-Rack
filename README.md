@@ -64,10 +64,10 @@ Collaboration projects are always welcome ;)
 
 
 ## History
-The initial project was to create a serie of Modules, used for **quadraphonic performances**. The concept was developped 20 years ago but only few hardware prototypes were made at this time.  
+The initial project was to create a serie of Modules, used for **quadraphonic performances**. I developped the concept 20 years ago but only one hardware prototype was made at this time and it didn´t have a good looking, to be honest.  
 See 2002 Patent Document: https://patents.google.com/patent/FR2839601A1/en?oq=FR2839601A1
 
-The objective is to recreate theses concepts in a virtual environment (VCV Rack) and add some extra features. Here is a list of needed "components":
+The objective is to recreate theses concepts in a virtual environment (VCV Rack) and add some extra features. Here is a list of needed "audio components":
 
 - **QuadraMixer**, a matrix mixer with 4 inputs/outputs with controls and options
 - **QuadraMaster**, An master output section with 4 audio inputs/outputs with effects, limiter and options
