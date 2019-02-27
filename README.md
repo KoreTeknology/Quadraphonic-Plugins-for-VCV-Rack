@@ -55,6 +55,8 @@ I will publish a documentation as soon as i start to build the device... stay tu
 
 * **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology) from 2001
 
+<img src="https://img.shields.io/badge/Aktiv-25-9cf.svg" /> <img src="https://img.shields.io/badge/5-Viento-9cf.svg" /> <img src="https://img.shields.io/badge/Kore-Teknology-9cf.svg" />
+
 Please, feel free to contact me, and/or discuss further developments or ideas for those plugins, thanks ;)
 Collaboration projects are always welcome ;)
 
