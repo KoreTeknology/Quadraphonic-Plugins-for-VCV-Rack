@@ -12,9 +12,6 @@ The aim of this project is to produce a serie of audio tools to perform multi-ch
 | Date | Title | Downloads |
 | --- | --- | --- |
 | **2019-02-22** | Module *Quadraphonics* - for **VCV Rack v0.6x** - Win10/MacOS/Linux |[0.6.3](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases) |
-| **2019-02-19** | Module *Quadraphonics* - for **VCV Rack v0.6x** - Win10/MacOS/Linux | |[0.6.2](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases) |
-| **2019-02-17** | Module *Quadraphonics* - for **VCV Rack v0.6x** - Win10/MacOS/Linux | |[0.6.15](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases) |
-| **2019-02-16** | Module *Quadraphonics* - for **VCV Rack v0.6x** - Win10/MacOS/Linux | |[0.6.11](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases) |
 
 ---
 
@@ -24,14 +21,13 @@ The aim of this project is to produce a serie of audio tools to perform multi-ch
 
 ## History
 The initial project was to create a serie of Modules, used for **quadraphonic performances**. The concept was developped 20 years ago but only few hardware prototypes were made at this time.  
-
 See 2002 Patent Document: https://patents.google.com/patent/FR2839601A1/en?oq=FR2839601A1
 
 The objective is to recreate theses concepts in a virtual environment (VCV Rack) and add some extra features. Here is a list of needed "components":
 
-- **QuadraTrack**, a Single Mono Input track to 4 outputs with controls and options (or 4x4 matrix...)
+- **QuadraMixer**, a matrix mixer with 4 inputs/outputs with controls and options
 - **QuadraMaster**, An master output section with 4 audio inputs/outputs with effects, limiter and options
-- **QuadraEngine**, a 4 tracks sequencer, recorder/player, audio/midi from files, with 4 audio channel and 16 Midi channel
+- **QuadraEngine**, a tracks sequencer, recorder/player, audio/midi from files, with 4 audio channels and 16 Midi channels
 
 ---
 
@@ -42,12 +38,10 @@ The final documentation will cover several sections like:
 - **How to make a new Module**, an advanced tutorial on the Quadratrack mixer development
 - **How to use/test your new module in VCV Rack**, a complete manual of using VCV Rack and testing modules process
 
-At any time, you can refer to the Summary page to access tutorial parts : [Summary](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/summary.md)
-
+#Important#
 I am moving the documentation to this page: [Tutorials Section](https://github.com/KoreTeknology/Tutorial-How-to-create-modules-for-VCV-Rack)
 
 ---
-
 
 
 ## Overview and short description of the modules
