@@ -19,7 +19,7 @@ The aim of this project is to produce a serie of audio tools to perform real tim
 
 ---
 
-## Overview of the modules and Development Plans
+## Overview of the modules 
 
 ### QuadraTrack Module: Type MIXER
 This module is intended to recieve a single mono channel and distribute it to 4 outputs. The user may manipulate de sound space with manual controls (can be assigned to external Midi CC) OR internal automation control thru CV Levels. Mutes and CV levels give more precision and creativity to any quadriphonic scenery design. [Read the specifications](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/quadratrack.md)
@@ -36,8 +36,15 @@ this module is intended to recieve 4 mono channels and apply various treatments 
 ### QuadraEngine Module: Type SEQUENCER
 this module is intended to Record/Play/import/export a specific files package. It contains 4 audio files, 1 configuration text file and a midi file. The objectives here is to record live performances and replay them in order to modifiy in real time the quadrphonic motions . [Read the specifications](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/quadraengine.md)
 
-| **Status:** *In progress* | **Title:** *none* |
+| **Status:** *Stopped* | **Title:** *none* |
 | --- | --- |
+
+
+## Development Plans
+
+At the moment, i am focusing on re-formating the module serie, by UI design, but also by new features. The MKII serie will be improved at various levels, here are some preview drawings and plans.
+
+
 
 ---
 
