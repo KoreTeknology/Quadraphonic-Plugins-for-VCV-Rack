@@ -41,13 +41,14 @@ this module is intended to Record/Play/import/export a specific files package. I
 
 ---
 
-## Authors
+## Author
 
 * **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology)
 
-Please, feel free to contact me, and/or discuss further development or ideas for these plugins, thanks ;)
+Please, feel free to contact me, and/or discuss further developments or ideas for those plugins, thanks ;)
+Collaboration projects are always welcome ;)
 
-
+---
 
 ## History
 The initial project was to create a serie of Modules, used for **quadraphonic performances**. The concept was developped 20 years ago but only few hardware prototypes were made at this time.  
