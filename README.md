@@ -44,18 +44,18 @@ I am moving the documentation to this page: [Tutorials Section](https://github.c
 ---
 
 
-## Overview and short description of the modules
+## Overview of the modules and Development Plans
 
 ### QuadraTrack Module: Type MIXER
 This module is intended to recieve a single mono channel and distribute it to 4 outputs. The user may manipulate de sound space with manual controls (can be assigned to external Midi CC) OR internal automation control thru CV Levels. Mutes and CV levels give more precision and creativity to any quadriphonic scenery design. [Read the specifications](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/quadratrack.md)
 
-| **Status:** *In progress* | **Title:** *0.2b* |
+| **Status:** *In progress* | **Title:** *MK1* |
 | --- | --- |
 
 ### QuadraMaster Module: Type AUDIO
 this module is intended to recieve 4 mono channels and apply various treatments and effects to 4 audio outputs, ready to be connected to the device outputs. The user may set the parameters, accordingly to the performance project and room size of any quadriphonic scenery. [Read the specifications](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/quadramaster.md)
 
-| **Status:** *In progress* | **Title:** *none* |
+| **Status:** *In progress* | **Title:** *MK1* |
 | --- | --- |
 
 ### QuadraEngine Module: Type SEQUENCER
