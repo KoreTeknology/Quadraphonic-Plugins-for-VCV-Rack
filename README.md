@@ -46,6 +46,8 @@ At the moment, i am focusing on re-formating the module serie, by UI design, but
 
 <img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Com/preview_mk2.jpg" width=100%>
 
+Also, the project includes a DIY hardware build. i dont have all the knowledge to build an analog system, so my idea is to build an exact copy of the virtual module on its visual aspect and ergonomy, but as a MIDI controller.
+I will publish a documentation as soon as i start to build the device... stay tuned !
 
 ---
 
