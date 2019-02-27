@@ -50,6 +50,9 @@ Collaboration projects are always welcome ;)
 
 ---
 
+<img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Com/pre2010.jpg" width=100%>
+
+
 ## History
 The initial project was to create a serie of Modules, used for **quadraphonic performances**. The concept was developped 20 years ago but only few hardware prototypes were made at this time.  
 See 2002 Patent Document: https://patents.google.com/patent/FR2839601A1/en?oq=FR2839601A1
