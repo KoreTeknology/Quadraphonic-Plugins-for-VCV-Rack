@@ -19,31 +19,6 @@ The aim of this project is to produce a serie of audio tools to perform real tim
 
 ---
 
-## History
-The initial project was to create a serie of Modules, used for **quadraphonic performances**. The concept was developped 20 years ago but only few hardware prototypes were made at this time.  
-See 2002 Patent Document: https://patents.google.com/patent/FR2839601A1/en?oq=FR2839601A1
-
-The objective is to recreate theses concepts in a virtual environment (VCV Rack) and add some extra features. Here is a list of needed "components":
-
-- **QuadraMixer**, a matrix mixer with 4 inputs/outputs with controls and options
-- **QuadraMaster**, An master output section with 4 audio inputs/outputs with effects, limiter and options
-- **QuadraEngine**, a tracks sequencer, recorder/player, audio/midi from files, with 4 audio channels and 16 Midi channels
-
----
-
-I can consider this project as a **WIP** (work in progress), files will be updated on major upgrades without deadline until the complete documentation will be published. The complete work of documentation is released under Open document license and the modules files is release under Open source license. 
-
-The final documentation will cover several sections like:
-- **How to plan your Module Development**, from idea to project planning
-- **How to make a new Module**, an advanced tutorial on the Quadratrack mixer development
-- **How to use/test your new module in VCV Rack**, a complete manual of using VCV Rack and testing modules process
-
-#Important#
-I am moving the documentation to this page: [Tutorials Section](https://github.com/KoreTeknology/Tutorial-How-to-create-modules-for-VCV-Rack)
-
----
-
-
 ## Overview of the modules and Development Plans
 
 ### QuadraTrack Module: Type MIXER
@@ -72,6 +47,31 @@ this module is intended to Record/Play/import/export a specific files package. I
 
 Please, feel free to contact me, and/or discuss further development or ideas for these plugins, thanks ;)
 
+
+
+## History
+The initial project was to create a serie of Modules, used for **quadraphonic performances**. The concept was developped 20 years ago but only few hardware prototypes were made at this time.  
+See 2002 Patent Document: https://patents.google.com/patent/FR2839601A1/en?oq=FR2839601A1
+
+The objective is to recreate theses concepts in a virtual environment (VCV Rack) and add some extra features. Here is a list of needed "components":
+
+- **QuadraMixer**, a matrix mixer with 4 inputs/outputs with controls and options
+- **QuadraMaster**, An master output section with 4 audio inputs/outputs with effects, limiter and options
+- **QuadraEngine**, a tracks sequencer, recorder/player, audio/midi from files, with 4 audio channels and 16 Midi channels
+
+---
+
+I can consider this project as a **WIP** (work in progress), files will be updated on major upgrades without deadline until the complete documentation will be published. The complete work of documentation is released under Open document license and the modules files is release under Open source license. 
+
+The final documentation will cover several sections like:
+- **How to plan your Module Development**, from idea to project planning
+- **How to make a new Module**, an advanced tutorial on the Quadratrack mixer development
+- **How to use/test your new module in VCV Rack**, a complete manual of using VCV Rack and testing modules process
+
+#Important#
+I am moving the documentation to this page: [Tutorials Section](https://github.com/KoreTeknology/Tutorial-How-to-create-modules-for-VCV-Rack)
+
+---
 
 ## Translations
 
