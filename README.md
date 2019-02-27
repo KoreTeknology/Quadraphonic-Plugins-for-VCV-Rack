@@ -1,6 +1,6 @@
 # Quadraphonic-Plugins-for-VCV-Rack
 
-<img src="https://img.shields.io/badge/Quadraphonics-VCV%20Modules-yellowgreen.svg" alt="Name" /> <img src="https://img.shields.io/badge/Uriel Deveaud-2019-blue.svg" />  <img src="https://img.shields.io/badge/C++-Coding-purple.svg" />    <img src="https://img.shields.io/badge/Virtual-Audio Rack-lightgrey.svg" />
+<img src="https://img.shields.io/badge/Quadraphonics Modules-for VCV%20Rack-orange.svg" alt="Name" /> <img src="https://img.shields.io/badge/Uriel Deveaud-2019-blue.svg" />  <img src="https://img.shields.io/badge/C++-Coding-purple.svg" />    <img src="https://img.shields.io/badge/Virtual-Audio Rack-lightgrey.svg" />
 
 <img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Com/presentation_s1.jpg" width=100%>
 
