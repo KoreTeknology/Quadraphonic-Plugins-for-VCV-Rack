@@ -2,28 +2,25 @@
 
 <img src="https://img.shields.io/badge/Quadraphonics-VCV%20Modules-yellowgreen.svg" alt="Name" /> <img src="https://img.shields.io/badge/Uriel Deveaud-2019-blue.svg" />  <img src="https://img.shields.io/badge/C++-Coding-purple.svg" />    <img src="https://img.shields.io/badge/Audio Solution-Virtual Eurorack-lightgrey.svg" />
 
+<img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Com/presentation_s1.jpg" width=100%>
+
 This is an educational project, based on the creation of a set of **Modules for VCV Rack**, Open-source virtual modular synthesizer  https://github.com/VCVRack/Rack .
 
 ## Latest Builds
 
 Each release can be found in the Releases Section, [Here !](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases)
 
-| Date | Title |
-| --- | --- |
-| **2019-02-22** | Module *Quadraphonics 0.6.3* - for **VCV Rack v0.6x** - Win10/MacOS/Linux |
-| **2019-02-19** | Module *Quadraphonics 0.6.2* - for **VCV Rack v0.6x** - Win10/MacOS/Linux |
-| **2019-02-17** | Module *Quadraphonics 0.6.1* - for **VCV Rack v0.6x** - Win10/MacOS/Linux |
-| **2019-02-16** | Module *Quadraphonics 0.6.0* - for **VCV Rack v0.6x** - Win10/MacOS/Linux |
+| Date | Title | Download |
+| --- | --- | --- |
+| **2019-02-22** | Module *Quadraphonics 0.6.3* - for **VCV Rack v0.6x** - Win10/MacOS/Linux |[Here !](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases) |
+
+| **2019-02-19** | Module *Quadraphonics 0.6.2* - for **VCV Rack v0.6x** - Win10/MacOS/Linux | |[Here !](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases) |
+| **2019-02-17** | Module *Quadraphonics 0.6.1* - for **VCV Rack v0.6x** - Win10/MacOS/Linux | |[Here !](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases) |
+| **2019-02-16** | Module *Quadraphonics 0.6.0* - for **VCV Rack v0.6x** - Win10/MacOS/Linux | |[Here !](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases) |
 
 ---
-
-<img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Com/presentation_s1.jpg" width=100%>
-
----
-
 
 <img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Com/cablesQuad2.jpg" width=100%>
-
 
 ---
 
