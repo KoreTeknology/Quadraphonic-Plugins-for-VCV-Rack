@@ -66,7 +66,7 @@ Collaboration projects are always welcome ;)
 
 
 ## History
-The initial project was to create a serie of Modules, used for **quadraphonic performances**. I developped the concept 20 years ago, but only one hardware prototype was made at this time and it didn´t have a good looking, to be honest, even if it was working as expected.  
+The initial project was to create a serie of Modules, used for **real-time quadraphonic performances**. I developped my own concept 20 years ago, but only one hardware prototype was made at this time and it didn´t have a good looking, to be honest, even if it was working as expected.  
 See 2002 Patent Document: https://patents.google.com/patent/FR2839601A1/en?oq=FR2839601A1
 
 The objective is to recreate theses concepts in a virtual environment (VCV Rack) and add some extra features. Here is a list of needed "audio components":
