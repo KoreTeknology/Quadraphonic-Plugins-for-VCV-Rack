@@ -6,6 +6,7 @@
 
 The aim of this project is to produce a serie of audio tools to perform real time multi-channels mixing and "Surround" Automation sequencing. This is an Educational and Research project, based on the creation of a set of **Quadraphonics Modules** for VCV Rack, the **Awesome** Open-source Virtual Modular Synthesizer Software for Windows, MacOS and Linux computers, visit the [VCV Rack Official Website](https://github.com/VCVRack/Rack).
 
+[Read also the Tutorials Section](https://github.com/KoreTeknology/Tutorial-How-to-create-modules-for-VCV-Rack) (always in progress!)
 
 ## Latest Builds
 
